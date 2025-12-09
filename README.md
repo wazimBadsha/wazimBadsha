@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @wazimBadsha
-- 👀 I’m interested in Application Development • Full Stack Developer (MERN/MEVN) • Front-Back-Middleware end • Microservices • Go • LLM/ML/AI integrations • JS •Kotlin • Java • React-Native • React.js • UX 
-- 🌱 I’m currently learning devops advanced tools , AI/ML,AR/VR
-- 📫 How to reach : visit https://www.linkedin.com/in/badhushak/ 
-
-
-
+Hi, I'm @wazimBadsha, an application and full-stack developer (MERN/MEVN) with expertise in front-back-middleware, microservices, Go, LLM/ML/AI integrations, JS, Kotlin, Java, React-Native, React.js, and UX. I'm currently learning advanced DevOps tools, AI/ML, and AR/VR. Reach me at https://www.linkedin.com/in/badhushak/.
