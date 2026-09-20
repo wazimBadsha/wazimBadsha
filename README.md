@@ -1,25 +1,70 @@
-### 👋 Hi, I’m **Badhusha K (wazimBadsha)**
+# 👋 Hi, I'm Badhusha K
 
-Full Stack Web & Mobile Engineer specializing in **Node.js, Golang, React/React Native, Android (Java/Kotlin), Microservices, and Cloud Architecture**.
+### Senior Software Engineer · Full Stack · Mobile · Cloud · AI
 
-I build **scalable, production-grade systems** across web, mobile, and cloud environments—ranging from **real-time platforms**, **data pipelines**, **AI-powered features**, to **enterprise EdTech & E-commerce applications** used by **100,000+ users**.
+I design and build scalable production systems across
+web, mobile, backend, cloud and AI.
 
-### 🔧 **What I Work On**
+**Node.js · Go · TypeScript · React · React Native · Android ·
+Microservices · AWS · Azure · AI/LLM**
 
-* Full-Stack Development: **MERN / MEVN**, Node.js, Golang
-* Mobile: **Native Android (Kotlin/Java)**, **React Native**, Hybrid apps
-* System Architecture: **Microservices**, event-driven systems, CI/CD, AWS
-* Real-time engineering: WebSockets, live streaming, notifications
-* AI/LLM Integrations: **LangChain, Mistral 7B, Whisper**, generative AI features
-* Databases: MongoDB, MySQL, PostgreSQL, Redis, Redshift
-* Frontend: React, Vue/Nuxt, Next.js, UX-focused development
+---
 
-### 🌱 **Currently Learning**
+## 🚀 Engineering Showcase
 
-Advanced **DevOps**, **AI/ML engineering**, and **AR/VR workflows**.
+<a href="https://gamma.app/embed/04omx2c8ak4upl5">
+  <img
+    src="YOUR_GITHUB_IMAGE_URL"
+    alt="Badhusha K — Engineering Showcase"
+    width="100%"
+  />
+</a>
 
-### 📫 **Connect With Me**
+**→ Explore my visual engineering showcase**
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/badhushak/](https://www.linkedin.com/in/badhushak/)
-🌐 **Portfolio:** [https://badhusha-dev.vercel.app/](https://badhusha-dev.vercel.app/)
+---
 
+## ⚙️ What I Build
+
+| Area | Technologies |
+|---|---|
+| Backend | Node.js, Go, REST, GraphQL, WebSockets |
+| Frontend | React, Next.js, Vue, Nuxt |
+| Mobile | Android, Kotlin, Java, React Native |
+| Architecture | Microservices, Event-driven systems |
+| Cloud | AWS, Docker, CI/CD |
+| Data | MongoDB, PostgreSQL, MySQL, Redis |
+| AI | LLM APIs, LangChain, Mistral, Whisper |
+
+---
+
+## 🧠 Engineering Focus
+
+- Scalable backend and distributed systems
+- Real-time applications and WebSocket architectures
+- Enterprise web and mobile applications
+- Data pipelines and event-driven systems
+- AI/LLM-powered product features
+- Cloud-native infrastructure and CI/CD
+- Production reliability, performance and maintainability
+
+---
+
+## 📊 Experience
+
+**Senior / Lead Software Engineer**
+
+8+ years building and shipping production software across
+EdTech, E-commerce, enterprise platforms and AI-enabled systems.
+
+I've worked across:
+
+**Backend → Frontend → Mobile → Cloud → Data → AI**
+
+---
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/badhushak/)
+- [Portfolio](https://badhusha-dev.vercel.app/)
+- [GitHub](https://github.com/wazimBadsha)
